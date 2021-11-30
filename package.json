@@ -9,6 +9,9 @@
     "serve": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
+  "dependencies": {
+    "ts-micro-dict": "^8.0.3"
+  },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
     "@tsconfig/svelte": "^2.0.1",
